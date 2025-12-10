@@ -4,6 +4,10 @@ In December 2025 we [revealed](https://www.bbc.co.uk/news/articles/cgkexm0gpvpo)
 
 The Agency’s target is for just 2% of its high consequence defences to be below target condition.
 
+## Get the data
+
+* CSV: [Flood defences below required condition by local authority](https://github.com/BBC-Data-Unit/flood-defences/blob/main/Flood_Defences_to_share%20-%20England%20data.csv)
+
 ## Methodology
 
 All of the Shared Data Unit’s findings come from a dataset prepared by Defra’s data services team.
