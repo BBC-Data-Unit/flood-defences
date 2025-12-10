@@ -2,6 +2,8 @@
 
 In December 2025 we [revealed](https://www.bbc.co.uk/news/articles/cgkexm0gpvpo) that almost 9% of the 98,000 defences inspected by the Environment Agency were below condition.
 
+The Agency’s target is for just 2% of its high consequence defences to be below target condition.
+
 ## Methodology
 
 All of the Shared Data Unit’s findings come from a dataset prepared by Defra’s data services team.
@@ -15,6 +17,25 @@ Eventually an agreement was reached with the Defra data services team to give th
 ## Partner usage
 
 The Shared Data Unit makes data journalism available to the wider news industry as part of the BBC Local News Partnership. Stories written by partners based on this research included:
+
+* Alton Herald: [New figures reveal flood defence gaps in Waverley and East Hampshire](https://www.altonherald.com/news/new-figures-reveal-flood-defence-gaps-in-waverley-and-east-hampshire-859745)
+* BRadio: [Thousands of flood defences fail to meet standards](https://www.bradio.co.uk/news/berkshire-news/thousands-of-flood-defences-fail-to-meet-standards/
+* Darlington and Stockton Times: [Dozens of Durham and Darlington flood defences below standard](https://www.darlingtonandstocktontimes.co.uk/news/25685744.dozens-durham-darlington-flood-defences-standard/)
+* Farnham Herald: [New figures reveal flood defence gaps in Waverley and East Hampshire](https://www.farnhamherald.com/news/new-figures-reveal-flood-defence-gaps-in-waverley-and-east-hampshire-859745)
+* Lincs Online: [Figures show number of ‘high consequence’ flood defences classed as ‘below required condition’ in Lincolnshire and Rutland](https://www.lincsonline.co.uk/skegness/almost-500-vital-flood-defences-are-below-required-conditio-9445022/)
+* Liphook Herald: [New figures reveal flood defence gaps in Waverley and East Hampshire](https://www.liphookherald.com/news/new-figures-reveal-flood-defence-gaps-in-waverley-and-east-hampshire-859745)
+* Newark Advertiser: [Figures show number of ‘high consequence’ flood defences classed as ‘below required condition’ in Lincolnshire and Rutland](https://www.newarkadvertiser.co.uk/news/key-flood-defences-are-below-required-condition-9445046/)
+* Newbury Today: [Many of West Berkshire flood defences are sub standard says Environment Agency](https://www.newburytoday.co.uk/news/a-fifth-of-west-berks-flood-defences-are-sub-standard-9444651/)
+* The Northern Echo: [Dozens of Durham and Darlington flood defences below standard](https://www.thenorthernecho.co.uk/news/25685489.dozens-durham-darlington-flood-defences-standard/)
+* Spalding Voice: [Many flood defences ‘below required standard’](https://spaldingvoice.co.uk/many-flood-defences-below-required-standard/)
+* Woking News and Mail: [BBC data puts Woking 17th worst in England for failing flood defences](https://www.wokingnewsandmail.co.uk/news/bbc-data-puts-woking-17th-worst-in-england-for-failing-flood-defences-859753)
+
+
+
+
+
+
+
 
 
 
